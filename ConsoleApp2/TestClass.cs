@@ -9,7 +9,7 @@ namespace ConsoleApp2
     internal class TestClass
     {
         public string FirstName { get; set; }
-
+        public string LastName { get; set; }
 
     }
 }
